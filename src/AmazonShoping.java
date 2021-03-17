@@ -52,6 +52,8 @@ public static void main(String[] args) throws InterruptedException
 		 * Thread.sleep(2000); driver.findElement(By.linkText("Subscribe")).click();
 		 * Thread.sleep(2000);
 		 */
+     // this is the sample code 
+     
      
 	/*
 	 * driver.findElement(By.xpath("//*[text()='Hello. Sign in']")).click();
